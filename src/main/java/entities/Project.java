@@ -1,6 +1,8 @@
 package entities;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
+
+
 import java.sql.Timestamp;
 import java.time.LocalDateTime;
 import java.util.Set;
