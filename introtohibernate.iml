@@ -6,7 +6,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
-          <factory-entry name="soft_uni" value="8bb73e5d-5c76-41e6-8d7d-b6fceaef77c7" />
+          <factory-entry name="soft_uni" />
         </datasource-mapping>
         <naming-strategy-map>
           <unit-entry name="soft_uni" />
